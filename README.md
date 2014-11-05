@@ -48,7 +48,7 @@
 英文字學系統可以做英文學習，讓老師了解學生之學習狀態
 
 ###利害關係人目標表###
-<a href="http://imgur.com/Ayi9Ukb"><img src="http://i.imgur.com/Ayi9Ukb.jpg" title="我需要其他圖片" /></a>
+<a href="http://imgur.com/W65kJLp"><img src="http://i.imgur.com/W65kJLp.jpg" title="我需要其他圖片" /></a>
 
 ##二、建立事件表並定義使用案例##
 ###事件與使用案例列表###
