@@ -48,40 +48,40 @@
 英文字學系統可以做英文學習，讓老師了解學生之學習狀態
 
 ###利害關係人目標表###
-<a href="http://i.imgur.com/W65kJLp.jpg"><img src="http://i.imgur.com/W65kJLp.jpg" title="我需要其他圖片" /></a>
+<a href="http://i.imgur.com/wG8oRaM.png"><img src="http://i.imgur.com/wG8oRaM.png" title="利害關係人目標表" /></a>
 
 ##二、建立事件表並定義使用案例##
 ###事件與使用案例列表###
-<img src="/img/2.png" /><br>
+<a href="http://i.imgur.com/TdoLjiJ.png"><img src="http://i.imgur.com/TdoLjiJ.png" title="事件與使用案例列表" /></a>
 
 ##三、描述使用案例並描繪使用案例圖##
 ###使用案例圖###
-<img src="/img/3.png" /><br>
+<a href="http://i.imgur.com/PaX1nFy.png"><img src="http://i.imgur.com/PaX1nFy.png" title="使用案例圖" /></a>
 
 ###個別使用案例描述、使用案例活動圖###
 ####學生基本資料作業####
-<img src="/img/4.png" /><br>
-<img src="/img/5.png" /><br>
+<a href="http://i.imgur.com/yL8ibHb.png"><img src="http://i.imgur.com/yL8ibHb.png" title="個別使用案例描述" /></a>
+<a href="http://i.imgur.com/I70dpGj.png"><img src="http://i.imgur.com/I70dpGj.png" title="使用案例活動圖" /></a>
 
 ####教師基本資料作業####
-<img src="/img/6.png" /><br>
-<img src="/img/7.png" /><br>
+<a href="http://i.imgur.com/UNsyw6G.png"><img src="http://i.imgur.com/UNsyw6G.png" title="個別使用案例描述" /></a>
+<a href="http://i.imgur.com/eF3ON91.png"><img src="http://i.imgur.com/eF3ON91.png" title="使用案例活動圖" /></a>
 
 ####學生學習紀錄及管理我的單字庫####
-<img src="/img/8.png" /><br>
-<img src="/img/9.png" /><br>
+<a href="http://i.imgur.com/Qf0aZ9K.png"><img src="http://i.imgur.com/Qf0aZ9K.png" title="個別使用案例描述" /></a>
+<a href="http://i.imgur.com/kqM0JLS.png"><img src="http://i.imgur.com/kqM0JLS.png" title="使用案例活動圖" /></a>
 
 ####線上英文自學及測驗####
-<img src="/img/10.png" /><br>
-<img src="/img/11.png" /><br>
+<a href="http://i.imgur.com/1Fb7RzV.png"><img src="http://i.imgur.com/1Fb7RzV.png" title="個別使用案例描述" /></a>
+<a href="http://i.imgur.com/LTZ6Etq.png"><img src="http://i.imgur.com/LTZ6Etq.png" title="使用案例活動圖" /></a>
 
 ####教材及測驗管理作業####
-<img src="/img/12.png" /><br>
-<img src="/img/13.png" /><br>
+<a href="http://i.imgur.com/yu481li.png"><img src="http://i.imgur.com/yu481li.png" title="個別使用案例描述" /></a>
+<a href="http://i.imgur.com/x6Gn7hj.png"><img src="http://i.imgur.com/x6Gn7hj.png" title="使用案例活動圖" /></a>
 
 ####線上教材及試題測驗####
-<img src="/img/14.png" /><br>
-<img src="/img/15.png" /><br>
+<a href="http://i.imgur.com/E6ZRCaX.png"><img src="http://i.imgur.com/E6ZRCaX.png" title="個別使用案例描述" /></a>
+<a href="http://i.imgur.com/6UtB173.png"><img src="http://i.imgur.com/6UtB173.png" title="使用案例活動圖" /></a>
 
 ##四、尋找概念類別並描繪初步類別圖##
 
