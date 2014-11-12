@@ -87,89 +87,87 @@
 
 ###每個使用案例的名詞與概念類別列舉表及初步類別圖###
 ####學生基本資料作業####
-<a href="http://i.imgur.com/BxvYdtB.png"><img src="http://i.imgur.com/BxvYdtB.png" title="概念類別列舉表" /></a>
-<a href="http://i.imgur.com/SfWQDKF.png"><img src="http://i.imgur.com/SfWQDKF.png" title="初步類別圖" /></a>
+<img src="/img/16.png" /><br>
+<img src="/img/17.png" /><br>
 
 ####教師基本資料作業####
-<a href="http://i.imgur.com/ftFoFIa.png"><img src="http://i.imgur.com/ftFoFIa.png" title="概念類別列舉表" /></a>
-<a href="http://i.imgur.com/KyRRxp0.png"><img src="http://i.imgur.com/KyRRxp0.png" title="初步類別圖" /></a>
+<img src="/img/18.png" /><br>
+<img src="/img/19.png" /><br>
 
 ####學生學習紀錄及管理我的單字庫####
-<a href="http://i.imgur.com/yeyklrz.png"><img src="http://i.imgur.com/yeyklrz.png" title="概念類別列舉表" /></a>
-<a href="http://i.imgur.com/u5RaeDx.png"><img src="http://i.imgur.com/u5RaeDx.png" title="初步類別圖" /></a>
+<img src="/img/20.png" /><br>
+<img src="/img/21.png" /><br>
 
 ####線上英文自學及測驗####
-<a href="http://i.imgur.com/BHJoECA.png"><img src="http://i.imgur.com/BHJoECA.png" title="概念類別列舉表" /></a>
-<a href="http://i.imgur.com/6yho4Ba.png"><img src="http://i.imgur.com/6yho4Ba.png" title="初步類別圖" /></a>
+<img src="/img/22.png" /><br>
+<img src="/img/23.png" /><br>
 
 ####教材及測驗管理作業####
-<a href="http://i.imgur.com/5OQ2Q6q.png"><img src="http://i.imgur.com/5OQ2Q6q.png" title="概念類別列舉表" /></a>
-<a href="http://i.imgur.com/aGp72a1.png"><img src="http://i.imgur.com/aGp72a1.png" title="初步類別圖" /></a>
+<img src="/img/24.png" /><br>
+<img src="/img/25.png" /><br>
 
 ####線上教材及試題測驗####
-<a href="http://i.imgur.com/vUo783Y.png"><img src="http://i.imgur.com/vUo783Y.png" title="概念類別列舉表" /></a>
-<a href="http://i.imgur.com/hibL78p.png"><img src="http://i.imgur.com/hibL78p.png" title="初步類別圖" /></a>
+<img src="/img/26.png" /><br>
+<img src="/img/27.png" /><br>
 
 ####最後整個系統的初步類別圖####
-<a href="http://i.imgur.com/kYZVD42.png"><img src="http://i.imgur.com/kYZVD42.png" title="初步類別圖" /></a>
-<a href="http://i.imgur.com/jTsjwRk.png"><img src="http://i.imgur.com/jTsjwRk.png" title="初步類別圖" /></a>
-<a href="http://i.imgur.com/nel4ZCm.png"><img src="http://i.imgur.com/nel4ZCm.png" title="初步類別圖" /></a>
-
-
+<img src="/img/28.png" /><br>
+<img src="/img/29.png" /><br>
+<img src="/img/30.png" /><br>
 
 ##五、設計系統循序圖##
 ###使用案例主要成功情節之英文名稱事件對應、合約、系統循序圖###
 ####學生基本資料作業####
-<a href="http://i.imgur.com/ogMWvxP.png"><img src="http://i.imgur.com/ogMWvxP.png" title="英文名稱事件對應" /></a>
-<a href="http://i.imgur.com/huZU0Yy.png"><img src="http://i.imgur.com/huZU0Yy.png" title="英文名稱事件對應" /></a><br>
-<a href="http://i.imgur.com/jq5UpZT.png"><img src="http://i.imgur.com/jq5UpZT.png" title="合約" /></a>
-<a href="http://i.imgur.com/M8qeAzS.png"><img src="http://i.imgur.com/M8qeAzS.png" title="合約" /></a>
-<a href="http://i.imgur.com/ejTRVkJ.png"><img src="http://i.imgur.com/ejTRVkJ.png" title="合約" /></a>
-<a href="http://i.imgur.com/B1yavpU.png"><img src="http://i.imgur.com/B1yavpU.png" title="合約" /></a><br>
-<a href="http://i.imgur.com/O6F6lRK.png"><img src="http://i.imgur.com/O6F6lRK.png" title="系統循序圖" /><br>
+<img src="/img/31.png" />
+<img src="/img/32.png" /><br>
+<img src="/img/33.png" />
+<img src="/img/34.png" />
+<img src="/img/35.png" />
+<img src="/img/36.png" /><br>
+<img src="/img/37.png" /><br>
 
 ####教師基本資料作業####
-<a href="http://i.imgur.com/Z9uNUPZ.png"><img src="http://i.imgur.com/Z9uNUPZ.png" title="英文名稱事件對應" /></a>
-<a href="http://i.imgur.com/9FWU58M.png"><img src="http://i.imgur.com/9FWU58M.png" title="英文名稱事件對應" /></a><br>
-<a href="http://i.imgur.com/mDLp5Qk.png"><img src="http://i.imgur.com/mDLp5Qk.png" title="合約" /></a>
-<a href="http://i.imgur.com/HPsddQR.png"><img src="http://i.imgur.com/HPsddQR.png" title="合約" /></a>
-<a href="http://i.imgur.com/nGpebBY.png"><img src="http://i.imgur.com/nGpebBY.png" title="合約" /></a>
-<a href="http://i.imgur.com/ZCJILbm.png"><img src="http://i.imgur.com/ZCJILbm.png" title="合約" /></a><br>
-<a href="http://i.imgur.com/DfwP4K4.png"><img src="http://i.imgur.com/DfwP4K4.png" title="系統循序圖" /></a><br>
+<img src="/img/38.png" />
+<img src="/img/39.png" /><br>
+<img src="/img/40.png" />
+<img src="/img/41.png" />
+<img src="/img/42.png" />
+<img src="/img/43.png" /><br>
+<img src="/img/44.png" /><br>
 
 ####學生學習紀錄及管理我的單字庫####
-<img src="/img/45.png" />
-<img src="/img/46.png" /><br>
-<img src="/img/47.png" />
-<img src="/img/48.png" />
-<img src="/img/49.png" />
-<img src="/img/50.png" /><br>
-<img src="/img/51.png" /><br>
+<a href="http://i.imgur.com/TrhAu4Z.png"><img src="http://i.imgur.com/TrhAu4Z.png" title="學生學習紀錄及管理我的單字庫" /></a>
+<a href="http://i.imgur.com/P4klw9U.png"><img src="http://i.imgur.com/P4klw9U.png" /></a><br>
+<a href="http://i.imgur.com/IFYYFaR.png"><img src="http://i.imgur.com/IFYYFaR.png" title="合約－學生學習紀錄及管理我的單字庫" /></a><br>
+<a href="http://i.imgur.com/dwdDZAP.png"><img src="http://i.imgur.com/dwdDZAP.png" /></a>
+<a href="http://i.imgur.com/RtWqs4w.png"><img src="http://i.imgur.com/RtWqs4w.png" /></a>
+<a href="http://i.imgur.com/HHkpfNZ.png"><img src="http://i.imgur.com/HHkpfNZ.png" /></a>
+<a href="http://i.imgur.com/P4K741b.png"><img src="http://i.imgur.com/P4K741b.png" title="循序圖－學生學習紀錄及管理我的單字庫" /></a>
 
 ####線上英文自學及測驗####
-<img src="/img/52.png" />
-<img src="/img/53.png" /><br>
-<img src="/img/54.png" />
-<img src="/img/55.png" />
-<img src="/img/56.png" /><br>
-<img src="/img/57.png" /><br>
+<a href="http://i.imgur.com/DOjXGcA.png"><img src="http://i.imgur.com/DOjXGcA.png" title="使用案例圖－線上英文自學及測驗" /></a>
+<a href="http://i.imgur.com/LdsJILd.png"><img src="http://i.imgur.com/LdsJILd.png" /></a><br>
+<a href="http://i.imgur.com/FTigehK.png"><img src="http://i.imgur.com/FTigehK.png" title="合約－線上英文自學及測驗" /></a>
+<a href="http://i.imgur.com/JUrJTnO.png"><img src="http://i.imgur.com/JUrJTnO.png" /></a>
+<a href="http://i.imgur.com/rk7MNBt.png"><img src="http://i.imgur.com/rk7MNBt.png" /></a><br>
+<a href="http://i.imgur.com/gd2HxNK.png"><img src="http://i.imgur.com/gd2HxNK.png" title="循序圖－線上英文自學及測驗" /></a><br>
 
 
 ####教材及測驗管理作業####
-<img src="/img/58.png" />
-<img src="/img/59.png" /><br>
-<img src="/img/60.png" />
-<img src="/img/61.png" /><br>
-<img src="/img/62.png" /><br>
+<a href="http://i.imgur.com/2rAkR15.png"><img src="http://i.imgur.com/2rAkR15.png" title="使用案例圖－教材及測驗管理作業" /></a>
+<a href="http://i.imgur.com/WfdMOiJ.png"><img src="http://i.imgur.com/WfdMOiJ.png" /></a><br><br>
+<a href="http://i.imgur.com/m9rJIBa.png"><img src="http://i.imgur.com/m9rJIBa.png" title="合約－教材及測驗管理作業" /></a>
+<a href="http://i.imgur.com/SKZO919.png"><img src="http://i.imgur.com/SKZO919.png" /></a><br>
+<a href="http://i.imgur.com/5f4g9U0.png"><img src="http://i.imgur.com/5f4g9U0.png" title="循序圖－教材及測驗管理作業" /></a><br>
 
 ####線上教材及試題測驗####
-<img src="/img/63.png" />
-<img src="/img/64.png" /><br>
-<img src="/img/65.png" />
-<img src="/img/66.png" />
-<img src="/img/67.png" /><br>
-<img src="/img/68.png" /><br>
+<a href="http://i.imgur.com/J8BH2jG.png"><img src="http://i.imgur.com/J8BH2jG.png" title="使用案例圖－線上教材及試題測驗" /></a>
+<a href="http://i.imgur.com/NHgAFgZ.png"><img src="http://i.imgur.com/NHgAFgZ.png" /></a><br>
+<a href="http://i.imgur.com/sbFvGVU.png"><img src="http://i.imgur.com/sbFvGVU.png" title="合約－線上教材及試題測驗" /></a>
+<a href="http://i.imgur.com/zxTaBHw.png"><img src="http://i.imgur.com/zxTaBHw.png" /></a>
+<a href="http://i.imgur.com/QOSrkQ9.png"><img src="http://i.imgur.com/QOSrkQ9.png" /></a><br>
+<a href="http://i.imgur.com/i77mKKT.png"><img src="http://i.imgur.com/i77mKKT.png" title="循序圖－線上教材及試題測驗" /></a><br>
 
 
 ##六、工作分配##
-<img src="/img/69.png" /><br>
+<img src="http://i.imgur.com/RT3WNJ6.png" /><br>
