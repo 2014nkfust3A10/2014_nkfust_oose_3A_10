@@ -87,53 +87,53 @@
 
 ###每個使用案例的名詞與概念類別列舉表及初步類別圖###
 ####學生基本資料作業####
-<img src="/img/16.png" /><br>
-<img src="/img/17.png" /><br>
+<a href="http://i.imgur.com/BxvYdtB.png"><img src="http://i.imgur.com/BxvYdtB.png" title="概念類別列舉表" /></a>
+<a href="http://i.imgur.com/SfWQDKF.png"><img src="http://i.imgur.com/SfWQDKF.png" title="初步類別圖" /></a>
 
 ####教師基本資料作業####
-<img src="/img/18.png" /><br>
-<img src="/img/19.png" /><br>
+<a href="http://i.imgur.com/ftFoFIa.png"><img src="http://i.imgur.com/ftFoFIa.png" title="概念類別列舉表" /></a>
+<a href="http://i.imgur.com/KyRRxp0.png"><img src="http://i.imgur.com/KyRRxp0.png" title="初步類別圖" /></a>
 
 ####學生學習紀錄及管理我的單字庫####
-<img src="/img/20.png" /><br>
-<img src="/img/21.png" /><br>
+<a href="http://i.imgur.com/yeyklrz.png"><img src="http://i.imgur.com/yeyklrz.png" title="概念類別列舉表" /></a>
+<a href="http://i.imgur.com/u5RaeDx.png"><img src="http://i.imgur.com/u5RaeDx.png" title="初步類別圖" /></a>
 
 ####線上英文自學及測驗####
-<img src="/img/22.png" /><br>
-<img src="/img/23.png" /><br>
+<a href="http://i.imgur.com/BHJoECA.png"><img src="http://i.imgur.com/BHJoECA.png" title="概念類別列舉表" /></a>
+<a href="http://i.imgur.com/6yho4Ba.png"><img src="http://i.imgur.com/6yho4Ba.png" title="初步類別圖" /></a>
 
 ####教材及測驗管理作業####
-<img src="/img/24.png" /><br>
-<img src="/img/25.png" /><br>
+<a href="http://i.imgur.com/5OQ2Q6q.png"><img src="http://i.imgur.com/5OQ2Q6q.png" title="概念類別列舉表" /></a>
+<a href="http://i.imgur.com/aGp72a1.png"><img src="http://i.imgur.com/aGp72a1.png" title="初步類別圖" /></a>
 
 ####線上教材及試題測驗####
-<img src="/img/26.png" /><br>
-<img src="/img/27.png" /><br>
+<a href="http://i.imgur.com/vUo783Y.png"><img src="http://i.imgur.com/vUo783Y.png" title="概念類別列舉表" /></a>
+<a href="http://i.imgur.com/hibL78p.png"><img src="http://i.imgur.com/hibL78p.png" title="初步類別圖" /></a>
 
 ####最後整個系統的初步類別圖####
-<img src="/img/28.png" /><br>
-<img src="/img/29.png" /><br>
-<img src="/img/30.png" /><br>
+<a href="http://i.imgur.com/kYZVD42.png"><img src="http://i.imgur.com/kYZVD42.png" title="初步類別圖" /></a>
+<a href="http://i.imgur.com/jTsjwRk.png"><img src="http://i.imgur.com/jTsjwRk.png" title="初步類別圖" /></a>
+<a href="http://i.imgur.com/nel4ZCm.png"><img src="http://i.imgur.com/nel4ZCm.png" title="初步類別圖" /></a>
 
 ##五、設計系統循序圖##
 ###使用案例主要成功情節之英文名稱事件對應、合約、系統循序圖###
 ####學生基本資料作業####
-<img src="/img/31.png" />
-<img src="/img/32.png" /><br>
-<img src="/img/33.png" />
-<img src="/img/34.png" />
-<img src="/img/35.png" />
-<img src="/img/36.png" /><br>
-<img src="/img/37.png" /><br>
+<a href="http://i.imgur.com/ogMWvxP.png"><img src="http://i.imgur.com/ogMWvxP.png" title="英文名稱事件對應" /></a>
+<a href="http://i.imgur.com/huZU0Yy.png"><img src="http://i.imgur.com/huZU0Yy.png" title="英文名稱事件對應" /></a><br>
+<a href="http://i.imgur.com/jq5UpZT.png"><img src="http://i.imgur.com/jq5UpZT.png" title="合約" /></a>
+<a href="http://i.imgur.com/M8qeAzS.png"><img src="http://i.imgur.com/M8qeAzS.png" title="合約" /></a>
+<a href="http://i.imgur.com/ejTRVkJ.png"><img src="http://i.imgur.com/ejTRVkJ.png" title="合約" /></a>
+<a href="http://i.imgur.com/B1yavpU.png"><img src="http://i.imgur.com/B1yavpU.png" title="合約" /></a><br>
+<a href="http://i.imgur.com/O6F6lRK.png"><img src="http://i.imgur.com/O6F6lRK.png" title="系統循序圖" /><br>
 
 ####教師基本資料作業####
-<img src="/img/38.png" />
-<img src="/img/39.png" /><br>
-<img src="/img/40.png" />
-<img src="/img/41.png" />
-<img src="/img/42.png" />
-<img src="/img/43.png" /><br>
-<img src="/img/44.png" /><br>
+<a href="http://i.imgur.com/Z9uNUPZ.png"><img src="http://i.imgur.com/Z9uNUPZ.png" title="英文名稱事件對應" /></a>
+<a href="http://i.imgur.com/9FWU58M.png"><img src="http://i.imgur.com/9FWU58M.png" title="英文名稱事件對應" /></a><br>
+<a href="http://i.imgur.com/mDLp5Qk.png"><img src="http://i.imgur.com/mDLp5Qk.png" title="合約" /></a>
+<a href="http://i.imgur.com/HPsddQR.png"><img src="http://i.imgur.com/HPsddQR.png" title="合約" /></a>
+<a href="http://i.imgur.com/nGpebBY.png"><img src="http://i.imgur.com/nGpebBY.png" title="合約" /></a>
+<a href="http://i.imgur.com/ZCJILbm.png"><img src="http://i.imgur.com/ZCJILbm.png" title="合約" /></a><br>
+<a href="http://i.imgur.com/DfwP4K4.png"><img src="http://i.imgur.com/DfwP4K4.png" title="系統循序圖" /></a><br>
 
 ####學生學習紀錄及管理我的單字庫####
 <a href="http://i.imgur.com/TrhAu4Z.png"><img src="http://i.imgur.com/TrhAu4Z.png" title="學生學習紀錄及管理我的單字庫" /></a>
