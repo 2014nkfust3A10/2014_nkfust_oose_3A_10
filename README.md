@@ -167,7 +167,12 @@
 <a href="http://i.imgur.com/zxTaBHw.png"><img src="http://i.imgur.com/zxTaBHw.png" /></a>
 <a href="http://i.imgur.com/QOSrkQ9.png"><img src="http://i.imgur.com/QOSrkQ9.png" /></a><br>
 <a href="http://i.imgur.com/i77mKKT.png"><img src="http://i.imgur.com/i77mKKT.png" title="循序圖－線上教材及試題測驗" /></a><br>
-
+####強韌圖####
+<a href="http://i.imgur.com/v5yqPnd.jpg?1"><img src="http://i.imgur.com/v5yqPnd.jpg?1" title="強韌圖" /></a>
+####循序圖####
+<a href="http://i.imgur.com/OreI3S9.jpg?1"><img src="http://i.imgur.com/OreI3S9.jpg?1" title="循序圖" /></a>
+####類別圖####
+<a href="http://i.imgur.com/DPRnF3K.jpg?1"><img src="http://i.imgur.com/DPRnF3K.jpg?1" title="類別圖" /></a>
 
 ##六、工作分配##
 <img src="http://i.imgur.com/RT3WNJ6.png" /><br>
