@@ -172,7 +172,7 @@
 ####循序圖####
 <a href="http://i.imgur.com/OreI3S9.jpg?1"><img src="http://i.imgur.com/OreI3S9.jpg?1" title="循序圖" /></a>
 ####類別圖####
-<a href="http://i.imgur.com/DPRnF3K.jpg?1"><img src="http://i.imgur.com/DPRnF3K.jpg?1" title="類別圖" /></a>
+<a href="http://i.imgur.com/4dXqGVa.jpg?1"><img src="http://i.imgur.com/4dXqGVa.jpg?1" title="類別圖" /></a>
 
 ##六、工作分配##
 <img src="http://i.imgur.com/RT3WNJ6.png" /><br>
