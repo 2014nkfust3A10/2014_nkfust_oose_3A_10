@@ -56,7 +56,7 @@
 
 ##三、描述使用案例並描繪使用案例圖##
 ###使用案例圖###
-<a href="http://i.imgur.com/PaX1nFy.png"><img src="http://i.imgur.com/PaX1nFy.png" title="使用案例圖" /></a>
+<a href="http://i.imgur.com/HQ6JF4I.jpg?1"><img src="http://i.imgur.com/HQ6JF4I.jpg?1" title="使用案例圖" /></a>
 
 ###個別使用案例描述、使用案例活動圖###
 ####學生基本資料作業####
